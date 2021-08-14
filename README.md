@@ -14,11 +14,12 @@ You can find me at [Linkedin](https://www.linkedin.com/in/viniciusdamiao/) or E-
 
 </br>
 
+<div style="display: inline_block; grid-template-column">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinidamiaop&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidamiaop&layout=compact&theme=radical">
+</div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinidamiaop&show_icons=true&theme=radical)](https://github.com/Vinidamiaop)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidamiaop&layout=compact&theme=radical)](https://github.com/Vinidamiaop)
 
 
 
