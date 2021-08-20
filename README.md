@@ -1,9 +1,9 @@
 ### Hi there, my name is **Vinícius Damião** and I'm currently a **Information System** undergraduate
 
-About me: I have a bachelor degree at advertising and propaganda. I love technology and coffee ☕️
+About me: I have a bachelor degree at advertising and marketing. I love technology and coffee ☕️
 
 I'm currently **learning**:
-- TypeScript
+- TypeScript / JavaScript
 - NodeJs
 - C#
 - .NET
