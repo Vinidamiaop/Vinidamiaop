@@ -1,13 +1,16 @@
-### Hi there, my name is **Vinícius Damião** and I'm currently a **Information System** undergraduate
-
+### Hi there, my name is **Vinícius Damião** and I'm currently a **Information System** undergraduate and an intern at Empório High Tech
+</br>
 About me: I have a bachelor degree at advertising and marketing. I love technology and coffee ☕️
 
+</br>
+</br>
+
 I'm currently **learning**:
+
+- PHP
+- Laravel
 - TypeScript / JavaScript
 - NodeJs
-- C#
-- .NET
-- Flutter
 - SQL
 
 You can find me at [Linkedin](https://www.linkedin.com/in/viniciusdamiao/) or E-mail: [vinidamiaop@gmail.com](mailto:vinidamiaop@gmail.com)
