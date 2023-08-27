@@ -14,6 +14,7 @@ $skills = [
   "React Native",
   "NodeJs",
   "SQL",
+  "Scrum",
   "Docker",
   "Wordpress",
   "Linux",
