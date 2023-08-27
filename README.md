@@ -1,26 +1,54 @@
-### Hi there, my name is **Vinícius Damião** and I'm currently a **Information System** undergraduate and an intern at Empório High Tech
-</br>
-About me: I have a bachelor degree at advertising and marketing. I love technology and coffee ☕️
+I am a technology enthusiast who thoroughly enjoys studying, writing code, and seeing everything work as intended.
 
-</br>
-</br>
+I am currently pursuing a postgraduate degree in Software Engineering at PUC Minas (Pontifícia Universidade Católica de Minas Gerais), studying Information Systems at Estácio de Sá, and hold a bachelor's degree in Advertising and Marketing from UniFOA.
+My academic background, combined with my passion for innovation and continuous learning, allows me to easily adapt to new technologies and work environments.
 
-I'm currently **learning**:
+```PHP
+$skills = [
+  "PHP",
+  "Laravel",
+  "PHPUnit",
+  "PEST",  
+  "TypeScript / JavaScript",
+  "React",
+  "React Native",
+  "NodeJs",
+  "SQL",
+  "Docker",
+  "Wordpress",
+  "Linux",
+  "CSS",
+  "API Rest"
+];
 
-- PHP
-- Laravel
-- TypeScript / JavaScript
-- NodeJs
-- SQL
+$experenciece = [
+  "Previsiown" => [
+    "from" => "2023-01",
+    "to" => now(),
+    "description" => "I am responsible for creating new features, maintaining existing code, and
+      assisting interns with their technical challenges. I use the Laravel framework to develop
+      efficient and scalable web applications, following best programming practices. I work collaboratively
+      with a multidisciplinary team, providing support and guidance to colleagues.
+      My goal is to ensure the delivery of high-quality solutions, leveraging my knowledge and
+      expertise in Laravel to drive the team's success."
+  ],
+  "Empório High Tech" => [
+    "from" => "2021-07",
+    "to" => "2023-01",
+    "description" => "I was responsible for creating new features, maintaining existing code, and
+      assisting interns with their technical challenges. I used the Laravel framework to develop
+      efficient and scalable web applications, following best programming practices. I worked collaboratively
+      with a multidisciplinary team, providing support and guidance to colleagues.
+      My goal was to ensure the delivery of high-quality solutions, leveraging my knowledge and
+      expertise in Laravel to drive the team's success."
+  ],
+];
+```
 
 You can find me at [Linkedin](https://www.linkedin.com/in/viniciusdamiao/) or E-mail: [vinidamiaop@gmail.com](mailto:vinidamiaop@gmail.com)
 
 </br>
 
-<div style="display: inline_block; grid-template-column">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinidamiaop&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidamiaop&layout=compact&theme=radical">
-</div>
 
 
 
